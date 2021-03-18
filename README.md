@@ -102,28 +102,28 @@
       <img src="/w3images/team2.jpg" alt="John" style="width:100%">
       <h3>USA</h3>
       <p class="w3-opacity">CEO & Founder</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p> US Universities </p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
       <h3>Canada</h3>
       <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p> Universities in Canada</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="/w3images/team3.jpg" alt="Mike" style="width:100%">
-      <h3>Oceana</h3>
+      <h3>Oceania</h3>
       <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p> Universities in Australia and New Zealand</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
       <h3>Asia</h3>
       <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p> Universities in East Asia </p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
   </div>
