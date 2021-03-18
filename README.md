@@ -101,8 +101,7 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="/w3images/team2.jpg" alt="John" style="width:100%">
       <h3>USA</h3>
-      <p class="w3-opacity">CEO & Founder</p>
-      <p> US Universities </p>
+      <p> Universities in the US </p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
