@@ -39,7 +39,7 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Oceania</div>
-        <img src="https://www.studyoptions.com/sites/default/files/styles/mega_image/public/universities/university-melbourne/university-melbourne-ga002826.jpg?itok=WOkG28Yd" alt="House" style="width:100%">
+        <img src="https://teanabroad.org/wp-content/uploads/2015/12/U-Melbourne-Media-1-1.jpg" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
