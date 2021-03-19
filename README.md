@@ -8,11 +8,20 @@
   
 <!-- Navbar (sit on top) -->
 <div class="topnav">
+  .topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
   <a class="active" href="#home">Home</a>
   <a href="#news">Playlists</a>
   <a href="#contact">Calculator</a>
   <a href="#about">About</a>
 </div>
+
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
