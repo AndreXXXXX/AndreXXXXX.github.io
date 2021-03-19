@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <title>College List</title>
 <meta charset="UTF-8">
