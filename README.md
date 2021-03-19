@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>College List</title>
 <meta charset="UTF-8">
@@ -7,16 +7,11 @@
 <body>
   
 <!-- Navbar (sit on top) -->
-<div class="w3-top">
-  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-    <a href="#home" class="w3-bar-item w3-button"><b>College</b> List</a>
-    <!-- Float links to the right. Hide them on small screens -->
-    <div class="w3-right w3-hide-small">
-      <a href="#projects" class="w3-bar-item w3-button">Playlists</a>
-      <a href="#about" class="w3-bar-item w3-button">Series Calc</a>
-      <a href="#contact" class="w3-bar-item w3-button">IDK</a>
-    </div>
-  </div>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">Playlists</a>
+  <a href="#contact">Calculator</a>
+  <a href="#about">About</a>
 </div>
 
 <!-- Header -->
