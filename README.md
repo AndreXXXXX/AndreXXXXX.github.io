@@ -77,7 +77,7 @@
       <h3>Collegevine Website</h3>
       <p class="w3-opacity"></p>
       <p>Goes to collegevine website  </p>
-       <button onclick='window.location.assign("http://www.stackoverflow.com")'>
+       <button onclick='window.location.assign("https://www.collegevine.com/")'>
   Click Me
 </button>
     </div>
