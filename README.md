@@ -72,21 +72,21 @@
       <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
       <h3>Collegevine Website</h3>
       <p class="w3-opacity">Architect</p>
-      <p>Goes to collegevine website</p>
+      <p>Goes to collegevine website  </p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="/w3images/team3.jpg" alt="Mike" style="width:100%">
       <h3>List of all Colleges</h3>
       <p class="w3-opacity">Architect</p>
-      <p>All colleges in the list</p>
+      <p>All colleges in the list    </p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
       <h3>Important dates</h3>
       <p class="w3-opacity">Architect</p>
-      <p>Application and decision dates</p>
+      <p>Application and decision dates   </p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
   </div>
