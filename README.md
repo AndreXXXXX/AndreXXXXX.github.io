@@ -27,7 +27,7 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">United States</div>
-        <img src="/w3images/house5.jpg" alt="House" style="width:100%">
+        <img src="https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480x270//5/4/7/143547_SQBRC_Exterior_PM_June-2019.jpg" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
@@ -45,7 +45,7 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Asia</div>
-        <img src="/w3images/house4.jpg" alt="House" style="width:100%">
+        <img src="https://www.japanvisitor.com/images/content_images/kyoto-university-997x.jpg" alt="House" style="width:100%">
       </div>
     </div>
   </div>
