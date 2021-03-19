@@ -76,7 +76,7 @@
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="https://magellancounseling.com/wp-content/uploads/2018/05/college-list-1.jpg" alt="Mike" style="width:100%">
+      <img src="https://www.topschoolsintheusa.com/wp-content/uploads/2018/04/Best-Engineering-Schools-in-California.png" alt="Mike" style="width:100%">
       <h3>List of all Colleges</h3>
       <p class="w3-opacity"></p>
       <p>All colleges in the list    </p>
