@@ -40,6 +40,7 @@
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Oceania</div>
         <img src="https://teanabroad.org/wp-content/uploads/2015/12/U-Melbourne-Media-1-1.jpg" alt="House" style="width:100%">
+        <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
