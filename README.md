@@ -6,13 +6,50 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
   
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-
+<div class="header">
+  <h1>My Website</h1>
+  <p>A website created by me.</p>
 </div>
+<div class="navbar">
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#" class="right">Link</a>
+</div>
+/* Style the top navigation bar */
+.navbar {
+  overflow: hidden; /* Hide overflow */
+  background-color: #333; /* Dark background color */
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left; /* Make sure that the links stay side-by-side */
+  display: block; /* Change the display to block, for responsive reasons (see below) */
+  color: white; /* White text color */
+  text-align: center; /* Center the text */
+  padding: 14px 20px; /* Add some padding */
+  text-decoration: none; /* Remove underline */
+}
+
+/* Right-aligned link */
+.navbar a.right {
+  float: right; /* Float a link to the right */
+}
+
+/* Change color on hover/mouse-over */
+.navbar a:hover {
+  background-color: #ddd; /* Grey background color */
+  color: black; /* Black text color */
+}
+<div class="row">
+  <div class="side">...</div>
+  <div class="main">...</div>
+</div>
+/* Ensure proper sizing */
+* {
+  box-sizing: border-box;
+}
 
 
 <!-- Header -->
