@@ -28,12 +28,14 @@
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">United States</div>
         <img src="https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480x270//5/4/7/143547_SQBRC_Exterior_PM_June-2019.jpg" alt="House" style="width:100%">
+        <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Canada</div>
         <img src="https://news.ubc.ca/wp-content/uploads/2019/04/UBC.jpg" alt="House" style="width:100%">
+        <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
@@ -47,6 +49,7 @@
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Asia</div>
         <img src="https://www.channelnewsasia.com/image/11194802/16x9/991/557/678581a6d9326f7aadc6c95ca72a1b7c/kG/file-photo--utown--nus.jpg" alt="House" style="width:100%">
+        <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
       </div>
     </div>
   </div>
