@@ -66,28 +66,28 @@
       <h3>University Websites</h3>
       <p class="w3-opacity"></p>
       <p>Official University websites</p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+      <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="https://mma.prnewswire.com/media/595586/CollegeVine_Green__1_Logo.jpg?p=facebook" alt="Jane" style="width:100%">
       <h3>Collegevine Website</h3>
       <p class="w3-opacity"></p>
       <p>Goes to collegevine website  </p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+      <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="https://www.topschoolsintheusa.com/wp-content/uploads/2018/04/Best-Engineering-Schools-in-California.png" alt="Mike" style="width:100%">
       <h3>List of all Colleges</h3>
       <p class="w3-opacity"></p>
       <p>All colleges in the list    </p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+      <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="https://www.socialbakers.com/website/storage/2020/06/Content-Calendar.jpg" alt="Dan" style="width:100%">
       <h3>Important dates</h3>
       <p class="w3-opacity"></p>
       <p>Application and decision dates   </p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+      <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
     </div>
   </div>
   
