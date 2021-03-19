@@ -70,7 +70,9 @@
       <h3>University Websites</h3>
       <p class="w3-opacity"></p>
       <p>Official University websites</p>
-      <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
+      <button onclick='window.open("UniWebsites.html"")'>
+  Click Me
+</button>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="https://mma.prnewswire.com/media/595586/CollegeVine_Green__1_Logo.jpg?p=facebook" alt="Jane" style="width:100%">
