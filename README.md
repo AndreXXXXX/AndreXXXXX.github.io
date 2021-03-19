@@ -65,7 +65,7 @@
       <img src="/w3images/team2.jpg" alt="John" style="width:100%">
       <h3>University Websites</h3>
       <p class="w3-opacity">CEO & Founder</p>
-      <p>Official Websites for Universities</p>
+      <p>Official University websites</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
