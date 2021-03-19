@@ -70,8 +70,8 @@
       <h3>University Websites</h3>
       <p class="w3-opacity"></p>
       <p>Official University websites</p>
-      <button onclick='window.open("UniWebsites.html"")'>
-  Click Me
+      <button onclick='window.open("UniWebsites.html")'>
+  Go to
 </button>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
