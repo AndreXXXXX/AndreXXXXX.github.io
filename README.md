@@ -45,7 +45,7 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Asia</div>
-        <img src="https://divisare-res.cloudinary.com/images/c_limit,f_auto,h_2000,q_auto,w_3000/v1581068108/yzb88z5mhfulvs4k42hv/c-a-coelacanth-and-associates-daici-ano-kyoto-university-of-foreign-studies-bldg-4.jpg" alt="House" style="width:100%">
+        <img src="https://www.channelnewsasia.com/image/11194802/16x9/991/557/678581a6d9326f7aadc6c95ca72a1b7c/kG/file-photo--utown--nus.jpg" alt="House" style="width:100%">
       </div>
     </div>
   </div>
