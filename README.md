@@ -78,7 +78,7 @@
       <p class="w3-opacity"></p>
       <p>Goes to collegevine website  </p>
        <button onclick='window.location.assign("https://www.collegevine.com/")'>
-  Click Me
+  Go to
 </button>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
