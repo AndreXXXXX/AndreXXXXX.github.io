@@ -77,7 +77,9 @@
       <h3>Collegevine Website</h3>
       <p class="w3-opacity"></p>
       <p>Goes to collegevine website  </p>
-       <p>Go to<a href="https://www.collegevine.com/" title="" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+       <button onclick='window.location.assign("http://www.stackoverflow.com")'>
+  Click Me
+</button>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="https://www.topschoolsintheusa.com/wp-content/uploads/2018/04/Best-Engineering-Schools-in-California.png" alt="Mike" style="width:100%">
