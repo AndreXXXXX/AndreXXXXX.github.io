@@ -9,7 +9,7 @@
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="w3-image" src="https://blog.spiveyconsulting.com/content/images/2018/09/17-Duke.jpg" alt="Architecture" width="1500" height="800">
+  <img class="w3-image" src="https://i.insider.com/5d498e5e100a2422b830c8f7?width=750&format=jpeg&auto=webp" alt="Architecture" width="1500" height="800">
   <div class="w3-display-middle w3-margin-top w3-center">
     <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>College</b></span> <span class="w3-hide-small w3-text-light-grey">List</span></h1>
   </div>
