@@ -88,7 +88,7 @@
       <h3>Summer Programs</h3>
       <p class="w3-opacity"></p>
       <p>Good programs for summer</p>
-      <button onclick='window.location.assign("https://www.collegevine.com/")'>
+      <button onclick='window.location.assign("summerPrograms.html")'>
   Go to
 </button>
     </div>
