@@ -84,11 +84,13 @@
 </button>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="https://www.topschoolsintheusa.com/wp-content/uploads/2018/04/Best-Engineering-Schools-in-California.png" alt="Mike" style="width:100%">
-      <h3>List of all Colleges</h3>
+      <img src="https://www.topschoolsintheusa.com/wp-content/uploads/2018/04/Best-Engineering-Schools-in-California.png" alt="pic" style="width:100%">
+      <h3>Summer Programs</h3>
       <p class="w3-opacity"></p>
-      <p>All colleges in the list    </p>
-      <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
+      <p>Good programs for summer</p>
+      <button onclick='window.location.assign("https://www.collegevine.com/")'>
+  Go to
+</button>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="https://www.socialbakers.com/website/storage/2020/06/Content-Calendar.jpg" alt="Dan" style="width:100%">
