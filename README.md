@@ -27,28 +27,28 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">United States</div>
-        <img src="https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480x270//5/4/7/143547_SQBRC_Exterior_PM_June-2019.jpg" alt="House" style="width:100%">
+        <img src="https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480x270//5/4/7/143547_SQBRC_Exterior_PM_June-2019.jpg" alt="pic" style="width:100%">
         <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Canada</div>
-        <img src="https://news.ubc.ca/wp-content/uploads/2019/04/UBC.jpg" alt="House" style="width:100%">
+        <img src="https://news.ubc.ca/wp-content/uploads/2019/04/UBC.jpg" alt="pic" style="width:100%">
         <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Oceania</div>
-        <img src="https://teanabroad.org/wp-content/uploads/2015/12/U-Melbourne-Media-1-1.jpg" alt="House" style="width:100%">
+        <img src="https://teanabroad.org/wp-content/uploads/2015/12/U-Melbourne-Media-1-1.jpg" alt="pic" style="width:100%">
         <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Asia</div>
-        <img src="https://www.channelnewsasia.com/image/11194802/16x9/991/557/678581a6d9326f7aadc6c95ca72a1b7c/kG/file-photo--utown--nus.jpg" alt="House" style="width:100%">
+        <img src="https://www.channelnewsasia.com/image/11194802/16x9/991/557/678581a6d9326f7aadc6c95ca72a1b7c/kG/file-photo--utown--nus.jpg" alt="pic" style="width:100%">
         <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
       </div>
     </div>
@@ -66,7 +66,7 @@
 
  <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="https://i.ytimg.com/vi/l0PT01Wqe1Y/maxresdefault.jpg" alt="John" style="width:100%">
+      <img src="https://i.ytimg.com/vi/l0PT01Wqe1Y/maxresdefault.jpg" alt="pic" style="width:100%">
       <h3>University Websites</h3>
       <p class="w3-opacity"></p>
       <p>Official University websites</p>
@@ -75,7 +75,7 @@
 </button>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="https://mma.prnewswire.com/media/595586/CollegeVine_Green__1_Logo.jpg?p=facebook" alt="Jane" style="width:100%">
+      <img src="https://mma.prnewswire.com/media/595586/CollegeVine_Green__1_Logo.jpg?p=facebook" alt="pic" style="width:100%">
       <h3>Collegevine Website</h3>
       <p class="w3-opacity"></p>
       <p>Goes to collegevine website  </p>
@@ -93,7 +93,7 @@
 </button>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="https://www.socialbakers.com/website/storage/2020/06/Content-Calendar.jpg" alt="Dan" style="width:100%">
+      <img src="https://www.socialbakers.com/website/storage/2020/06/Content-Calendar.jpg" alt="pic" style="width:100%">
       <h3>Important dates</h3>
       <p class="w3-opacity"></p>
       <p>Application and decision dates   </p>
