@@ -1,5 +1,5 @@
 
-<html>
+<html>AndreXXXXX.github.io
 <title>College List</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -85,10 +85,10 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="https://www.topschoolsintheusa.com/wp-content/uploads/2018/04/Best-Engineering-Schools-in-California.png" alt="pic" style="width:100%">
-      <h3>Summer Programs</h3>
+      <h3>Accepted List</h3>
       <p class="w3-opacity"></p>
-      <p>Good programs for summer</p>
-      <button onclick='window.location.assign("summerPrograms.html")'>
+      <p>List of Acceptances</p>
+      <button onclick='window.location.assign("acceptedList.html")'>
   Go to
 </button>
     </div>
