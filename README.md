@@ -97,7 +97,9 @@
       <h3>Important dates</h3>
       <p class="w3-opacity"></p>
       <p>Application and decision dates   </p>
-      <p><button class="w3-button w3-light-grey w3-block">Go to</button></p>
+      <button onclick='window.location.assign("acceptedList.html")'>
+  Go to
+</button>
     </div>
   </div>
   
