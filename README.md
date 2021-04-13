@@ -6,31 +6,15 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
   
-  <div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="#">About</a>
-  <a href="#">Services</a>
-  <a href="#">Clients</a>
-  <a href="#">Contact</a>
+<div class="w3-sidebar w3-bar-block" style="width:25%">
+  <a href="#" class="w3-bar-item w3-button">Link 1</a>
+  <a href="#" class="w3-bar-item w3-button">Link 2</a>
+  <a href="#" class="w3-bar-item w3-button">Link 3</a>
 </div>
 
-/* The sidenav */
-.sidenav {
-  height: 100%;
-  width: 200px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  padding-top: 20px;
-}
-
-/* Page content */
-.main {
-  margin-left: 200px; /* Same as the width of the sidenav */
-}
+<div style="margin-left:25%">
+... page content ...
+</div>
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
